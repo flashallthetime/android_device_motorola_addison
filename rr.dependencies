@@ -1,9 +1,13 @@
 [
   {
+    "remote":      "github",
     "repository":  "android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953"
+    "branch":      "cm-14.1"
   },
-  {
+  { 
+  
+    "remote":     "github",
     "repository": "android_external_bson",
     "target_path": "external/bson"
   },
