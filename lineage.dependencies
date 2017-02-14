@@ -5,10 +5,8 @@
     "target_path": "kernel/motorola/msm8953"
     "branch":      "cm-14.1"
   },
-  { 
-  
-    "remote":     "github",
-    "repository": "android_external_bson",
+  {
+    "repository":  "android_external_bson",
     "target_path": "external/bson"
   },
   {
