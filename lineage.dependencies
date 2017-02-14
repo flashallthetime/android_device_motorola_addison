@@ -6,16 +6,36 @@
     "branch":      "cm-14.1"
   },
   {
+    "remote":      "github",
+    "repository":  "flashallthetime/proprietary_vendor_motorola_addison",
+    "target_path": "vendor/motorola/addison",
+    "branch":      "cm14.1"
+  },
+  {
     "repository":  "android_external_bson",
     "target_path": "external/bson"
+    "remote":      "cm"
   },
   {
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common"
+    "remote":      "cm"
   },
   {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
+    "remote":      "cm"
+  },
+  { 
+    "target_path": "external/stlport",
+    "repository":  "android_external_stlport",
+    "remote":      "cm"
+  },
+  {
+    "target_path": "external/sony/boringssl-compat",
+    "repository":  "android_external_sony_boringssl-compat",
+     "remote":     "cm"
+    
   }
 ]
 
